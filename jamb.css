@@ -1,0 +1,150 @@
+body {
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:sans-serif;
+	color:blue;
+}
+.more {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+	padding-top:10px;
+	width:100%;
+	height:50px;
+	color:white;
+	background-color:blue;
+	-webkit-border-top-left-radius:30px;
+	-webkit-border-top-right-radius:30px;
+}
+h2{
+	text-align:center;
+	color:red;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.reg {
+	width:48%;
+	height:280px;
+	margin-left:4px;
+	margin-right:auto;
+	border:1px solid black;
+	-webkit-border-top-left-radius:30px;
+	-webkit-border-top-right-radius:30px;
+	background-color:#e3e3e3;
+	float:left;
+}
+.reg img {
+	margin:2px;
+	float:left;
+}
+.reg a {
+	text-decoration:none;
+	color:red;
+}
+header img {
+	margin-left:100px;
+}
+ul {
+	list-style:none;
+	padding:0px;
+	margin:0px;
+	
+}
+nav ul li {
+	color:white;
+	text-align:center;
+	margin-left:0px;
+	float:left;
+	padding-top:20px;
+	width:170px;
+	height:40px;
+	background-color:blue;
+	opacity:.83;
+}
+
+nav ul li a {
+	text-decoration:none;
+	color:white;
+
+}
+nav ul li {
+	color:white;
+}
+nav ul li:hover {
+	background-color:green;
+}
+
+nav ul li:hover ul li {
+	display:block;
+	background-color:blue;
+}
+nav ul li ul li:hover{
+	background-color:green;
+}
+article {
+	width:40%;
+	background-color:red;
+}
+
+#bottomimg img {
+	width:30%;
+	padding-left:auto;
+}
+#slider {
+	padding-top:10px;
+	clear:both;
+}
+#slider img {
+	width:99%;
+
+}
+#bottom {
+	padding:15px;
+}
+#bottom a {
+	text-decoration:none;
+	text-align:right;
+	float:right;
+
+}
+#bottom img {
+	float:right;
+	height:20px;
+	margin:auto;
+
+}
+
+footer {
+	clear:both;
+	background:blue;
+	width:90%;
+	height:30px;
+	padding:12px;
+}
+footer p {
+	color:white;
+	text-align:center;
+
+}
+ul li ul li {
+	display :none;
+}
+.links {
+	clear:both;
+	padding:15px;
+	margin-top:50px;
+	width:46%;
+}
+.links ul li {
+	list-style-type:square;
+	margin-left:10px;
+	margin-bottom:20px;
+	padding-top:20px;
+}
+.links ul li a {
+	text-decoration:none;
+}
+
